@@ -1,6 +1,10 @@
 # ColkEasyDiscordBot
 [日本語版も利用できます / Japanese version is also available here](https://github.com/Colk-tech/ColkEasyDiscordBot/blob/master/JA_README.md)
 
+**NOTICE : I am considering to transfer this repository to [brokenManager](https://github.com/brokenManager) after provisional completion.**
+
+**お知らせ : ある程度完成した後、[brokenManager](https://github.com/brokenManager)へ委譲することを検討しています。**
+
 A user-customizable discord bot created by Colk.
 
 # Overview
