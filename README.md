@@ -1,5 +1,5 @@
 # ColkEasyDiscordBot
-[日本語版も利用できます / Japanese version is also available here](https://github.com/Colk-tech/ColkEasyDiscordBot/blob/master/JA_README)
+[日本語版も利用できます / Japanese version is also available here](https://github.com/Colk-tech/ColkEasyDiscordBot/blob/master/JA_README.md)
 
 A user-customizable discord bot created by Colk.
 
